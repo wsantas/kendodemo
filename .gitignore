@@ -15,3 +15,7 @@ buildNumber.properties
 mvnw
 
 mvnw\.cmd
+
+kendodemo\.iml
+
+*.iml
