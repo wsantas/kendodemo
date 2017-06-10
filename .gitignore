@@ -19,3 +19,5 @@ mvnw\.cmd
 kendodemo\.iml
 
 *.iml
+
+phantomjsdriver\.log
